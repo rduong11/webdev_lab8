@@ -32,12 +32,12 @@
   text-decoration: none;
 }
 
-#onpage {
-  text-decoration: underline overline;
+#main-navbar ul li a:hover {
+  background-color: #000;
 }
 
-#main-navbar ul li a :hover{
-  background-color: #000;
+#onpage {
+  text-decoration: underline overline;
 }
 
 #sidebar {
@@ -61,7 +61,6 @@
   text-decoration: none;
 }
 
-#sidebar ul li a :hover{
+#sidebar ul li a:hover {
   background-color: #000;
 }
-
